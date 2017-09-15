@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>laguardia</key>
+	<dict>
+		<key>description2</key>
+		<string>ITパークから徒歩3分の好立地のコンドミニアム。屋上にはプール、フロントには最強のガードマンと謳われているボブランサーが駐在。安全安心の生活を送ることのできるセブ島の住居の1つ。</string>
+		<key>description</key>
+		<string>la Guardia Flats Ⅱ</string>
+		<key>image</key>
+		<string>Image-2</string>
+		<key>latitude</key>
+		<string>10.3292</string>
+		<key>longitude</key>
+		<string>123.9040</string>
+	</dict>
+	<key>moalboal</key>
+	<dict>
+		<key>description2</key>
+		<string>セブ島必見スポットの1つ！モアルボアルの水音は人の悩みを忘れさせ、同時に回顧の念を催される。</string>
+		<key>description</key>
+		<string>モアルボアル</string>
+		<key>image</key>
+		<string>Image</string>
+		<key>latitude</key>
+		<string>10.317347</string>
+		<key>longitude</key>
+		<string>123.905759</string>
+	</dict>
+	<key>Ayala</key>
+	<dict>
+		<key>description2</key>
+		<string>1日に10万人以上が訪れるショッピングモール（複合センター）。足を運べば買えないものはないという伝説が残っています。</string>
+		<key>description</key>
+		<string>アヤラモール</string>
+		<key>image</key>
+		<string>Image-1</string>
+		<key>latitude</key>
+		<string>10.317347</string>
+		<key>longitude</key>
+		<string>123.905759</string>
+	</dict>
+</dict>
+</plist>
